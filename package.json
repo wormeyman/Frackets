@@ -1,0 +1,14 @@
+{
+    "name": "rubenengelbrecht.Frackets",
+    "title": "Frackets Theme",
+    "description": "A brackets theme based upon flat colors",
+    "homepage": "https://github.com/rubenrme/frackets",
+    "version": "1.0.0",
+    "author": "Ruben Engelbrecht <me@rubenengelbrecht.com> (http://rubenengelbrecht.com)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["theme, flat, ruben, engelbrecht"]
+}
